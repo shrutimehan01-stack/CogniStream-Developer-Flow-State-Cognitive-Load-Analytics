@@ -1,0 +1,1 @@
+Generated a simulated developer activity dataset using Python and Pandas for the CogniStream project. The dataset contains 800 records across 10 developers and 10 days, including activity duration, interruptions, and context switches.
