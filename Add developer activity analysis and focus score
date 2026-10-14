@@ -1,0 +1,13 @@
+Generated a simulated developer activity dataset containing 800 records across 10 developers and 10 days.
+
+
+
+Validated the dataset for missing values and duplicate records.
+
+
+
+Analyzed coding time, developer activities, interruptions, and context switching using Python and Pandas.
+
+
+
+Started developing developer focus metrics and visualizations using Matplotlib.
